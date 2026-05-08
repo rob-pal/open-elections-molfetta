@@ -36,23 +36,23 @@ OPPOSIZIONE = [
     ("Binetti Mauro",                "Molfetta Nostra", True),
     ("D'Amato Alberto",              "Partito Democratico", True),
     ("Gagliardi Annamaria Fabrizia", "Drago Sindaco", True),
-    ("Gagliardi Domenico",           "Molfetta Area Pubblica Sì", True),
+    ("Gagliardi Domenico",           "Molfetta Libera", True),
     ("Germinario Ippolita",          "Obiettivo Molfetta", True),
-    ("Infante Giovanni",             "Più di Così", True),
-    ("Lanza Girolamo Viktor",        "Molfetta che Vogliamo", True),
-    ("Mastropasqua Pietro",          "Molfetta Vincente", True),
+    ("Infante Giovanni",             "", True),
+    ("Lanza Girolamo Viktor",        "Avanti Molfetta", True),
+    ("Mastropasqua Pietro",          "", True),
     ("Spaccavento Felice Antonio",   "Rinascere", True),
 ]
 
 MAGGIORANZA = [
     ("Ancona Antonio",               "Molfetta in Azione", False),
     ("Crocifero Antonia",            "Ala Democratica", True),
-    ("De Gioia Onofrio",             "Insieme per la Città", False),
-    ("De Palma Francesca",           "Insieme per la Città", False),
+    ("De Gioia Onofrio",             "Minervini Sindaco", False),
+    ("De Palma Francesca",           "Molfetta che Vogliamo", False),
     ("Facchini Giovanni",            "Cuore Democratico", False),
     ("Fiorentino Angelo",            "Patto Comune", False),
-    ("Germano Carmela",              "Insieme per la Città", False),
-    ("Ginosa Elena",                 "Insieme per la Città", False),
+    ("Germano Carmela",              "Molfetta al Centro", False),
+    ("Ginosa Elena",                 "Minervini Sindaco", False),
     ("Minervini Leonardo",           "Cuore Democratico", False),
     ("Paparella Vito Corrado",       "Ala Democratica", False),
     ("Poli Maridda Maria",           "Molfetta Popolare", True),
@@ -62,8 +62,8 @@ MAGGIORANZA = [
 
 # Box istituzionali in alto a sinistra: (nome, ruolo, dimissionario)
 ISTITUZIONALI = [
-    ("Nicola Piergiovanni", "Sindaco F.F.", False),
-    ("Robert Amato",        "Presidente",   True),
+    ("Piergiovanni Nicola", "Sindaco F.F.", False),
+    ("Amato Robert",        "Presidente",   True),
 ]
 
 # Override manuale: chi non è nel CSV dei candidati 2026 ma sappiamo dove va
