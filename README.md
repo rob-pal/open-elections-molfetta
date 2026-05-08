@@ -98,6 +98,8 @@ funzione `normalizza()` applica, in ordine:
 9. Applicazione di alias manuali (vedi `ALIAS_CONFERMATI` nello script) per
    gestire refusi nei dati di partenza.
 
+Nonostante sia stato fatto un controllo manuale sommario, sono possibili corrispondenze errate o mancate.
+
 ### 3. Gestione delle omonimie
 
 In rari casi, nel CSV 2026 lo stesso nome compare più volte all'interno
