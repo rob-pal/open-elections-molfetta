@@ -1,0 +1,510 @@
+lista_num,lista_nome,candidato_sindaco_num,candidato_sindaco_nome,candidato_num,candidato_nome
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,1,La Forgia Dario
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,2,Andriani Simone
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,3,Binetti Giovanni Daniele
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,4,Cagnetta Felicia
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,5,De Candia Fabio
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,6,De Gennaro Chiara
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,7,De Palma Anna Maria
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,8,Del Vescovo Lucia
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,9,Di Gioia Alessandra Giovanna
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,10,Favuzzi Damiano
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,11,Gadaleta Maria Antonia
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,12,Germinario Maria
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,13,Guarino Valerio
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,14,Loiacono Innocente
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,15,Mancini Irene
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,16,Mezzina Sabina Anna Maria
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,17,Montrone Antonella
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,18,Pappagallo Alessandra
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,19,Piergiovanni Laura
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,20,Silvestri Leonardo
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,21,Spaccavento Giacomo
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,22,Stramaglia Angelo
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,23,Tattoli Susanna
+1,Movimento 5 Stelle,1,MANUEL MINERVINI,24,Tota Loredana
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,1,Aiello Antonello
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,2,Botta Saverio
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,3,Busetta Carletta Detta Carla
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,4,Cataldo Luigi
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,5,Centrone Federica
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,6,Ciccolella Giuseppe
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,7,Danpha Moustafa
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,8,Davoli Vito
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,9,De Laurentiis Simona
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,10,Di Modugno Leonardo
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,11,Germinario Pantaleo
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,12,Introna Brigida
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,13,Massari Michele
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,14,Pozzolungo Pasquale
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,15,Rana Silvia
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,16,Sallustio Michele
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,17,Sciancalepore Silvana
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,18,Summo Davide
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,19,Tatulli Giulia
+2,Alleanza Verdi-Sinistra,1,MANUEL MINERVINI,20,Vilardi Gabriele
+3,Demos,1,MANUEL MINERVINI,1,Altamura Filomena Arianna
+3,Demos,1,MANUEL MINERVINI,2,Altomare Adriana Isabella
+3,Demos,1,MANUEL MINERVINI,3,Belgiovine Adriano
+3,Demos,1,MANUEL MINERVINI,4,Caputi Maurilio
+3,Demos,1,MANUEL MINERVINI,5,D'angella Michele
+3,Demos,1,MANUEL MINERVINI,6,De Fazio Maddalena
+3,Demos,1,MANUEL MINERVINI,7,De Leonardis Valentina
+3,Demos,1,MANUEL MINERVINI,8,De Pinto Isabella
+3,Demos,1,MANUEL MINERVINI,9,De Robertis Giuseppe Marino
+3,Demos,1,MANUEL MINERVINI,10,Garofalo Alessia
+3,Demos,1,MANUEL MINERVINI,11,Germinario Mirella
+3,Demos,1,MANUEL MINERVINI,12,Mazzola Ignazio
+3,Demos,1,MANUEL MINERVINI,13,Minervini Domenico
+3,Demos,1,MANUEL MINERVINI,14,Pansini Elisabetta
+3,Demos,1,MANUEL MINERVINI,15,Panunzio Maria Sara
+3,Demos,1,MANUEL MINERVINI,16,Salvemini Giovanna
+3,Demos,1,MANUEL MINERVINI,17,Salvemini Graziano Antonio
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,1,Azzollini Vito
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,2,Balducci Ottavio
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,3,Bufi Marianna
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,4,Caputo Angela Maurina
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,5,Carnicella Marco
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,6,Casamassima Domenico
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,7,Cassano Daniele Giacomo
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,8,De Bari Vito
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,9,De Candia Alfredo Antonio
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,10,De Candia Onofrio
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,11,De Cesare Annamaria
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,12,De Felice Antonio Massimiliano
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,13,De Gioia Maria
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,14,Di Vona Ludovica
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,15,Lisena Corrado
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,16,Magarelli Rosanna
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,17,Manzoni Cosimo
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,18,Mastrangelo Cinzia
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,19,Mastropasqua Silvia
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,20,Minervini Giuseppina (detta Pina)
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,21,Rizzi Rosa
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,22,Samarelli Lucia Rosa
+4,Spazio Riformista (Molfetta Che Vogliamo + Italia Viva + Partito Socialista),1,MANUEL MINERVINI,23,Siragusa Leonardo
+5,Rifondazione Comunista,1,MANUEL MINERVINI,1,Abbattista Emanuele
+5,Rifondazione Comunista,1,MANUEL MINERVINI,2,Albertini Gian Michele
+5,Rifondazione Comunista,1,MANUEL MINERVINI,3,Altamura Emiliano
+5,Rifondazione Comunista,1,MANUEL MINERVINI,4,Armenio Giovanni Battista
+5,Rifondazione Comunista,1,MANUEL MINERVINI,5,Binetti Roberta
+5,Rifondazione Comunista,1,MANUEL MINERVINI,6,De Bari Silvana
+5,Rifondazione Comunista,1,MANUEL MINERVINI,7,De Candia Pasquale
+5,Rifondazione Comunista,1,MANUEL MINERVINI,8,De Ceglia Sergio
+5,Rifondazione Comunista,1,MANUEL MINERVINI,9,Drago Salvatore
+5,Rifondazione Comunista,1,MANUEL MINERVINI,10,Fasciano Maria
+5,Rifondazione Comunista,1,MANUEL MINERVINI,11,Infante Giovanni
+5,Rifondazione Comunista,1,MANUEL MINERVINI,12,Innominato Andrea
+5,Rifondazione Comunista,1,MANUEL MINERVINI,13,Lumaj Mirsada
+5,Rifondazione Comunista,1,MANUEL MINERVINI,14,Maselli Giacomo
+5,Rifondazione Comunista,1,MANUEL MINERVINI,15,Minervini Alessandra
+5,Rifondazione Comunista,1,MANUEL MINERVINI,16,Minervini Mario Francesco
+5,Rifondazione Comunista,1,MANUEL MINERVINI,17,Porcelli Giovanni
+5,Rifondazione Comunista,1,MANUEL MINERVINI,18,Sasso Corrado Antonio
+5,Rifondazione Comunista,1,MANUEL MINERVINI,19,Sciancalepore Massimo
+5,Rifondazione Comunista,1,MANUEL MINERVINI,20,Scuccimarro Onofrio
+5,Rifondazione Comunista,1,MANUEL MINERVINI,21,Spadavecchia Isabella
+5,Rifondazione Comunista,1,MANUEL MINERVINI,22,Ventura Carmen
+5,Rifondazione Comunista,1,MANUEL MINERVINI,23,Zanna Giuseppe
+5,Rifondazione Comunista,1,MANUEL MINERVINI,24,Zaza Paola
+6,Rinascere,1,MANUEL MINERVINI,1,Minervini Corrado
+6,Rinascere,1,MANUEL MINERVINI,2,Allegretta Filomena Daniela
+6,Rinascere,1,MANUEL MINERVINI,3,Altamura Alessandra Luigia
+6,Rinascere,1,MANUEL MINERVINI,4,Altamura Elisabetta
+6,Rinascere,1,MANUEL MINERVINI,5,Camporeale Ignazio
+6,Rinascere,1,MANUEL MINERVINI,6,De Candia Modesto
+6,Rinascere,1,MANUEL MINERVINI,7,De Trizio Feliciana
+6,Rinascere,1,MANUEL MINERVINI,8,Failli Adriano
+6,Rinascere,1,MANUEL MINERVINI,9,Gagliardi Annamaria Fabrizia Detta Annamaria
+6,Rinascere,1,MANUEL MINERVINI,10,Jacono Michele Massimo Riccardo
+6,Rinascere,1,MANUEL MINERVINI,11,La Grasta Marianna
+6,Rinascere,1,MANUEL MINERVINI,12,La Grasta Roberto
+6,Rinascere,1,MANUEL MINERVINI,13,Petruzzella Andrea
+6,Rinascere,1,MANUEL MINERVINI,14,Sagliano Amelia
+6,Rinascere,1,MANUEL MINERVINI,15,Sallustio Cosimo Roberto
+6,Rinascere,1,MANUEL MINERVINI,16,Scardigno Laura
+6,Rinascere,1,MANUEL MINERVINI,17,Sgherza Francesco
+6,Rinascere,1,MANUEL MINERVINI,18,Spadavecchia Teresa Ester
+6,Rinascere,1,MANUEL MINERVINI,19,Andraos Rita
+6,Rinascere,1,MANUEL MINERVINI,20,De Gennaro Domenico
+6,Rinascere,1,MANUEL MINERVINI,21,Catanzaro Michele
+6,Rinascere,1,MANUEL MINERVINI,22,Mongelli Mauro
+6,Rinascere,1,MANUEL MINERVINI,23,De Vincenzo Michi
+6,Rinascere,1,MANUEL MINERVINI,24,Cassano Anna Maria
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,1,Adesso Maria Serena
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,2,Andriani Gianluca
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,3,Argentiere Silvia
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,4,Bellifemine Miriana
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,5,Bufi Cosimo
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,6,Bufi Giordano Mauro Domenico
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,7,Campo Angelantonio
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,8,Carabellese Marilena
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,9,Ciannamea Patrizia
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,10,De Ruvo Giada Maria Anna
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,11,De Virgilio Damiano
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,12,Gervasio Carlo Maria
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,13,Mastropasqua Valentina
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,14,Minutillo Ettore
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,15,Molla Alessia
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,16,Paparella Gabriele
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,17,Pisani Francesco
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,18,Poli Nicola Fortunato
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,19,Porcelli Vincenzo
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,20,Racanati Teresa
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,21,Savelli Loredana
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,22,Spagnoletta Clara
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,23,Vacca Antonio
+7,Più Di Così - Minervini Sindaco,1,MANUEL MINERVINI,24,Zanzarella Ivano
+8,Partito Democratico,1,MANUEL MINERVINI,1,Aloisio Alessandro
+8,Partito Democratico,1,MANUEL MINERVINI,2,Altomare Anna Elisabetta
+8,Partito Democratico,1,MANUEL MINERVINI,3,Angeletti Fedele
+8,Partito Democratico,1,MANUEL MINERVINI,4,Annese Luigi
+8,Partito Democratico,1,MANUEL MINERVINI,5,Annese Vincenza
+8,Partito Democratico,1,MANUEL MINERVINI,6,Bartoli Maria Angela
+8,Partito Democratico,1,MANUEL MINERVINI,7,Calvani Giulio Maria
+8,Partito Democratico,1,MANUEL MINERVINI,8,Capurso Pietro
+8,Partito Democratico,1,MANUEL MINERVINI,9,Coppolecchia Maria
+8,Partito Democratico,1,MANUEL MINERVINI,10,Daliani Poli Paola Elisabetta
+8,Partito Democratico,1,MANUEL MINERVINI,11,De Gennaro Rossana
+8,Partito Democratico,1,MANUEL MINERVINI,12,De Leo Giuseppe
+8,Partito Democratico,1,MANUEL MINERVINI,13,De Musso Simonetta
+8,Partito Democratico,1,MANUEL MINERVINI,14,De Nichilo Lucia
+8,Partito Democratico,1,MANUEL MINERVINI,15,Farinola Vito
+8,Partito Democratico,1,MANUEL MINERVINI,16,Franzese Nicola
+8,Partito Democratico,1,MANUEL MINERVINI,17,Grosso Guglielmo
+8,Partito Democratico,1,MANUEL MINERVINI,18,Marzano Donato
+8,Partito Democratico,1,MANUEL MINERVINI,19,Mastropasqua Vincenzo
+8,Partito Democratico,1,MANUEL MINERVINI,20,Mastropierro Patrizia
+8,Partito Democratico,1,MANUEL MINERVINI,21,Piccininni Vincenza
+8,Partito Democratico,1,MANUEL MINERVINI,22,Ruggiero Domenico
+8,Partito Democratico,1,MANUEL MINERVINI,23,Sinisi Antonio
+8,Partito Democratico,1,MANUEL MINERVINI,24,Spadavecchia Laura
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,1,Abbasciano Marcella
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,2,Bufo Consiglia
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,3,Campo Federica Ida
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,4,Capurso Anna
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,5,Cioce Vincenzo
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,6,De Bari Lucia
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,7,De Candia Sergio
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,8,De Gennaro Gaia
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,9,De Gioia Onofrio
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,10,De Pinto Antonia
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,11,Fasciano Angela Maria
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,12,Giancaspro Giuseppe Giorgio
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,13,Marzocca Anna Grazia
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,14,Masielli Nicola
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,15,Parisi Raffaele
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,16,Picca Cosimo Damiano
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,17,Petruzzella Mauro
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,18,Petruzzella Nicolò Pio
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,19,Pignatelli Maria Giuseppa
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,20,Porta Giovanni
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,21,Scardicchio Daniele
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,22,Silvestri Roberta
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,23,Vista Leonardo
+9,Pietro Mastropasqua Sindaco,2,PIETRO MASTROPASQUA,24,Vitulano Vincenzo
+10,Ala Democratica,2,PIETRO MASTROPASQUA,1,Murolo Adriana
+10,Ala Democratica,2,PIETRO MASTROPASQUA,2,Grieco Anna Lorena
+10,Ala Democratica,2,PIETRO MASTROPASQUA,3,Cardillo Antonio
+10,Ala Democratica,2,PIETRO MASTROPASQUA,4,Sancilio Corrado
+10,Ala Democratica,2,PIETRO MASTROPASQUA,5,Roselli Caterina
+10,Ala Democratica,2,PIETRO MASTROPASQUA,6,Minervini Cosima
+10,Ala Democratica,2,PIETRO MASTROPASQUA,7,Petroni Costanza
+10,Ala Democratica,2,PIETRO MASTROPASQUA,8,Minervini Dario
+10,Ala Democratica,2,PIETRO MASTROPASQUA,9,Amato Eliana
+10,Ala Democratica,2,PIETRO MASTROPASQUA,10,Colasuonno Elisa
+10,Ala Democratica,2,PIETRO MASTROPASQUA,11,Balice Francesco
+10,Ala Democratica,2,PIETRO MASTROPASQUA,12,Cosmai Gianluca
+10,Ala Democratica,2,PIETRO MASTROPASQUA,13,Tota Giovanni
+10,Ala Democratica,2,PIETRO MASTROPASQUA,14,Zaza Giuseppina
+10,Ala Democratica,2,PIETRO MASTROPASQUA,15,Cappelluti Isabella
+10,Ala Democratica,2,PIETRO MASTROPASQUA,16,Ricchitelli Lucia
+10,Ala Democratica,2,PIETRO MASTROPASQUA,17,Cappelluti Maria
+10,Ala Democratica,2,PIETRO MASTROPASQUA,18,De Candia Maria Donatella
+10,Ala Democratica,2,PIETRO MASTROPASQUA,19,Sciancalepore Marianna
+10,Ala Democratica,2,PIETRO MASTROPASQUA,20,Rizzi Nunzia Indira
+10,Ala Democratica,2,PIETRO MASTROPASQUA,21,Laci Ristana
+10,Ala Democratica,2,PIETRO MASTROPASQUA,22,De Pinto Pantaleo
+10,Ala Democratica,2,PIETRO MASTROPASQUA,23,Chiarella Rosa
+10,Ala Democratica,2,PIETRO MASTROPASQUA,24,Paparella Vito Corrado
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,1,Amato Maria Paola
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,2,Brio Elena
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,3,Cannarozzo Giuseppe
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,4,Cantatore Arianna
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,5,De Bari Giuseppe
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,6,De Candia Antonio
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,7,De Gennaro Maria
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,8,Del Vescovo Donatella Anna
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,9,De Musso Tommaso
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,10,De Nichilo Pasquale
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,11,De Robertis Dario
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,12,Di Dedda Martina
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,13,Fasciano Martina
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,14,Mastropasqua Caterina
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,15,Petruzzella Fabio
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,16,Pietoli Patrizia Mercedes
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,17,Rosiello Giacomo
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,18,Salvemini Giacomo
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,19,Sgherza Gianna
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,20,Squeo Maria
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,21,Tridente Rosanna
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,22,Uva Maria
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,23,Varoshi Manjola
+11,Avanti Molfetta,2,PIETRO MASTROPASQUA,24,Ventura Domenico Daniele
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,1,Altomare Clelia Ida
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,2,Altomare Silvia
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,3,Ancona Antonio
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,4,Azzollini Francesco
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,5,Battista Giuseppe
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,6,Camporeale Teresa Alessia
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,7,Caruso Andrea
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,8,Catacchio Giovanni Luca
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,9,De Candia Giovanna
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,10,De Palma Giovanni
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,11,Furio Nicola
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,12,Gadaleta Felice Davide
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,13,Giancaspro Daniela
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,14,La Forgia Marta
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,15,Magarelli Gaetano
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,16,Pansini Maurizio
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,17,Pansini Vito
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,18,Paparella Pasqua
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,19,Patimo Valentina
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,20,Piergiovanni Nicola
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,21,Samarelli Francesca
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,22,Petruzzella Rosanna
+12,Cuore Democratico,2,PIETRO MASTROPASQUA,23,Ciannamea Elisabetta
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,1,Abbattista Salvatore
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,2,Allegretti Santa
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,3,Altamura Ippolita Annalisa
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,4,Amato Ilario
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,5,Antonucci Olga
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,6,Ceci Cosmo
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,7,De Candia Michele
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,8,De Gennaro Franca
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,9,De Nicolo Giuseppe
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,10,De Robertis Susanna
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,11,Del Rosso Alexandro
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,12,Fiorentino Angelo
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,13,La Forgia Vincenza
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,14,Labianca Olga
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,15,Mangiarano Maurizio
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,16,Mezzina Anna Maria
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,17,Pomodoro Paola Ada
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,18,Roselli Antonio
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,19,Sciancalepore Cataldo
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,20,Spaccavento Cosma Damiano
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,21,Spadavecchia Vincenzo
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,22,Tangari Valeria Maria Antonietta
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,23,Maggi Paola
+13,Molfetta Azzurra,2,PIETRO MASTROPASQUA,24,Barile Francesca
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,1,Binetti Mauro
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,2,Balestra Giuseppe
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,3,Pappagallo Addolorata
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,4,Montebello Angela
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,5,Minervini Antonio
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,6,Rafanelli Giacoma Barbara
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,7,Sasso Vittorio
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,8,De Robertis Cosimo Damiano
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,9,Sancilio Domenico
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,10,Germinario Luigi
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,11,Boccassini Marco
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,12,Fanelli Marika
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,13,Nappi Natale
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,14,Angione Onofrio
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,15,De Candia Pietro
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,16,Fornari Rosa
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,17,Caputi Flaviano
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,18,Carbonara Tiziana
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,19,De Vito Valentina
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,20,Verdesca Innocenza
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,21,Bellifemine Vito
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,22,Sgarro Simona
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,23,Tattoli Elisabetta
+14,Molfetta Nostra,2,PIETRO MASTROPASQUA,24,Sciancalepore Antonia
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,1,Amato Robert
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,2,Grillo Lirio
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,3,Bellapianta Giuseppe
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,4,Paolillo Luigia
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,5,Serino Gerardo
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,6,De Gioia Vincenza
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,7,Nappi Pietro
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,8,De Gennaro Pantaleo
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,9,Bega Aurora
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,10,Porcelli Lisa
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,11,Landriscina Marianna
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,12,Poli Maridda
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,13,Mezzina Michela
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,14,Spagnoletti Anna Antonia
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,15,Altomare Francesco
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,16,Spadavecchia Giuseppe
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,17,Messina Leonardo
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,18,Dell'olio Massimiliano
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,19,Gagliardi Pietro
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,20,Iannelli Giuseppe
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,21,Altamura Daniela
+15,Molfetta Popolare,2,PIETRO MASTROPASQUA,22,Carabellese Doriana
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,1,Favuzzi Alessandro
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,2,Brattoli Angelica
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,3,Cilardi Annalisa
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,4,Catanzaro Annamaria
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,5,De Pinto Antonia 2
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,6,Coppolecchia Claudio
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,7,Scardigno Danilo
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,8,Monti Elisabetta Anna
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,9,Misino Antonio
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,10,Lanza Girolamo Viktor
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,11,Raimondi Gloriana
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,12,De Candia Ida
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,13,Valente Maria
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,14,De Bari Mauro
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,15,Porcelli Ottavia
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,16,Binetti Pantaleo
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,17,Giancola Pasquale
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,18,De Cesare Pietrina
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,19,Ciccolella Raffaella Anna Antonia
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,20,Amato Rosa
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,21,Sciancalepore Rosella
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,22,Brio Tiziana
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,23,Errico Vanessa
+16,Molfetta Unita,2,PIETRO MASTROPASQUA,24,Ingrassia Vincenza
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,1,Allegretta Serafina
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,2,Amato Gabriele
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,3,Binetti Gianna Antonia
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,4,Catanzaro Marianna
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,5,Caterino Vincenzo Cosimo
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,6,Coletto Vito
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,7,Cristeli Marilena
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,8,De Candia Cosmo Daniele
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,9,De Gennaro Dorotea
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,10,Fabiano Davide Spiro
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,11,Germinario Ippolita
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,12,La Grasta Giulio
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,13,Messina Giuseppe
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,14,Mitoli Francesco
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,15,Muschitiello Emanuela
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,16,Nappi Adriano
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,17,Perretti Nadir
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,18,Racanati Nicolò
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,19,Scardigno Rossella
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,20,Sciancalepore Giuseppe
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,21,Scotti Roberta
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,22,Squeo Mauro
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,23,Tavella Saverio
+17,Obiettivo Molfetta,2,PIETRO MASTROPASQUA,24,Tridente Luigi
+18,Per Molfetta,2,PIETRO MASTROPASQUA,1,Angione Annaclaudia
+18,Per Molfetta,2,PIETRO MASTROPASQUA,2,Caiati Rosanna
+18,Per Molfetta,2,PIETRO MASTROPASQUA,3,Caputi Dorotea
+18,Per Molfetta,2,PIETRO MASTROPASQUA,4,Ciccolella Lucia
+18,Per Molfetta,2,PIETRO MASTROPASQUA,5,Clemente Emanuela
+18,Per Molfetta,2,PIETRO MASTROPASQUA,6,De Bari Luigi
+18,Per Molfetta,2,PIETRO MASTROPASQUA,7,De Gennaro Maria Domenica Detta Menica
+18,Per Molfetta,2,PIETRO MASTROPASQUA,8,De Laurentiis Alessandro Libero Detto Ale
+18,Per Molfetta,2,PIETRO MASTROPASQUA,9,Del Vescovo Jessica
+18,Per Molfetta,2,PIETRO MASTROPASQUA,10,De Palma Daniele
+18,Per Molfetta,2,PIETRO MASTROPASQUA,11,De Stena Donato
+18,Per Molfetta,2,PIETRO MASTROPASQUA,12,De Zio Claudio
+18,Per Molfetta,2,PIETRO MASTROPASQUA,13,Gadaleta Francesca
+18,Per Molfetta,2,PIETRO MASTROPASQUA,14,Giorgio Dante
+18,Per Molfetta,2,PIETRO MASTROPASQUA,15,Giovine Marino Luciano
+18,Per Molfetta,2,PIETRO MASTROPASQUA,16,La Forgia Gianmauro
+18,Per Molfetta,2,PIETRO MASTROPASQUA,17,La Grasta Michele
+18,Per Molfetta,2,PIETRO MASTROPASQUA,18,Losito Angelo
+18,Per Molfetta,2,PIETRO MASTROPASQUA,19,Minervini Michela
+18,Per Molfetta,2,PIETRO MASTROPASQUA,20,Mirto Damiana
+18,Per Molfetta,2,PIETRO MASTROPASQUA,21,Modugno Gabriella
+18,Per Molfetta,2,PIETRO MASTROPASQUA,22,Paparella Elisabetta
+18,Per Molfetta,2,PIETRO MASTROPASQUA,23,Petruzzella Anna Lisa
+18,Per Molfetta,2,PIETRO MASTROPASQUA,24,Tattoli Antonella
+19,Fare Comune,2,PIETRO MASTROPASQUA,1,Accettura Roberto
+19,Fare Comune,2,PIETRO MASTROPASQUA,2,Allegretta Ignazio Antonio
+19,Fare Comune,2,PIETRO MASTROPASQUA,3,Altamura Pietro
+19,Fare Comune,2,PIETRO MASTROPASQUA,4,Angione Marta Maria
+19,Fare Comune,2,PIETRO MASTROPASQUA,5,Annese Michele
+19,Fare Comune,2,PIETRO MASTROPASQUA,6,Azzollini Gabriella
+19,Fare Comune,2,PIETRO MASTROPASQUA,7,Barile Natale Gerardo
+19,Fare Comune,2,PIETRO MASTROPASQUA,8,Binetti Angela Daniela
+19,Fare Comune,2,PIETRO MASTROPASQUA,9,Bovino Alessandro
+19,Fare Comune,2,PIETRO MASTROPASQUA,10,Brio Damiano
+19,Fare Comune,2,PIETRO MASTROPASQUA,11,Coviello Maurangelo
+19,Fare Comune,2,PIETRO MASTROPASQUA,12,De Marco Valeria
+19,Fare Comune,2,PIETRO MASTROPASQUA,13,De Nicolo Giuseppina Danila
+19,Fare Comune,2,PIETRO MASTROPASQUA,14,Del Vecchio Anna Antonia
+19,Fare Comune,2,PIETRO MASTROPASQUA,15,Gaudio Salvatore Roberto
+19,Fare Comune,2,PIETRO MASTROPASQUA,16,Mastropasqua Gabriele
+19,Fare Comune,2,PIETRO MASTROPASQUA,17,Murolo Annamaria
+19,Fare Comune,2,PIETRO MASTROPASQUA,18,Muschitiello Raffaele
+19,Fare Comune,2,PIETRO MASTROPASQUA,19,Petruzzella Giovanni
+19,Fare Comune,2,PIETRO MASTROPASQUA,20,Rana Michele
+19,Fare Comune,2,PIETRO MASTROPASQUA,21,Sasso Grazia
+19,Fare Comune,2,PIETRO MASTROPASQUA,22,Scotti Pietro
+19,Fare Comune,2,PIETRO MASTROPASQUA,23,Spadavecchia Stefano
+19,Fare Comune,2,PIETRO MASTROPASQUA,24,Veneziano Vito
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,1,Allegretta Giulio
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,2,Altomare Maria
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,3,Azzollini Angela Maria
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,4,Barbolla Francesca
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,5,Binetti Alessia
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,6,Cilardi Pietro
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,7,De Bari Adriana
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,8,De Candia Mauro
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,9,De Gennaro Nunzia Marica
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,10,De Gioia Giuseppe
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,11,De Iudicibus Antonio Giuseppe
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,12,De Musso Domenico
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,13,De Simone Giovanni Battista
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,14,Fasciano Marta
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,15,Galdino Pasquale
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,16,Lafranceschina Antonella
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,17,Lapendola Niccolò Maria Bruno
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,18,Minervini Pietro
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,19,Petruzzella Leonardo
+20,Azzollini Per Logrieco Sindaco,3,ADAMO LOGRIECO,20,Piccolo Salvatore
+21,Udc,3,ADAMO LOGRIECO,1,Zaccaria Leonardo
+21,Udc,3,ADAMO LOGRIECO,2,Secchi Rosalba Anna
+21,Udc,3,ADAMO LOGRIECO,3,Valente Giuseppe
+21,Udc,3,ADAMO LOGRIECO,4,Veneziano Francesco Ignazio
+21,Udc,3,ADAMO LOGRIECO,5,Tattoli Corrado
+21,Udc,3,ADAMO LOGRIECO,6,Sasso Sergio Alessandro
+21,Udc,3,ADAMO LOGRIECO,7,Murolo Rosa
+21,Udc,3,ADAMO LOGRIECO,8,Murolo Gaetano
+21,Udc,3,ADAMO LOGRIECO,9,Introna Laura
+21,Udc,3,ADAMO LOGRIECO,10,Gadaleta Teresa Maria Grazia
+21,Udc,3,ADAMO LOGRIECO,11,Fiorentino Michele
+21,Udc,3,ADAMO LOGRIECO,12,Di Terlizzi Gianfranco
+21,Udc,3,ADAMO LOGRIECO,13,Cipriani Isabella
+21,Udc,3,ADAMO LOGRIECO,14,Caputi Giuseppina
+21,Udc,3,ADAMO LOGRIECO,15,Amato Annalisa
+21,Udc,3,ADAMO LOGRIECO,16,De Candia Michele 2
+21,Udc,3,ADAMO LOGRIECO,17,Patimo Sergio
+21,Udc,3,ADAMO LOGRIECO,18,De Palma Gerolamo
+21,Udc,3,ADAMO LOGRIECO,19,Ardito Ignazio Mario
+21,Udc,3,ADAMO LOGRIECO,20,De Gennaro Francesco
+21,Udc,3,ADAMO LOGRIECO,21,Spagnoletta Dalila
+21,Udc,3,ADAMO LOGRIECO,22,Gadaleta Ignazio
+21,Udc,3,ADAMO LOGRIECO,23,Melè Nicoletta
+21,Udc,3,ADAMO LOGRIECO,24,Turci Maria Pia Luigia
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,1,Rana Corrado
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,2,Tatulli Eliana
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,3,Annese Francesco
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,4,Annese Mariantonietta
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,5,Balacco Ester
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,6,Bancalà Angelo
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,7,Belgiovine Vittorio Corrado
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,8,Cifarelli Addolorata
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,9,Cirillo Ignazio
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,10,De Candia Michele 3
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,11,De Dato Carmela
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,12,De Gennaro Antonio
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,13,D'elia Elisabetta
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,14,Fiore Valentina
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,15,Gesmundo Marco Leonardo
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,16,Grosso Adalgisa
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,17,La Forgia Davide
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,18,Lafortezza Michele
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,19,Milillo Ferdinando
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,20,Napolitano Giuseppina
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,21,Ragusa Alfredo
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,22,Tattoli Giacomo
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,23,Uva Marianna
+22,Fratelli d'Italia,3,ADAMO LOGRIECO,24,Varone Angela Maria

@@ -1,0 +1,65 @@
+LICENZA PER I DATI E I GRAFICI CONTENUTI IN QUESTA REPOSITORY
+=============================================================
+
+Per garantire la massima trasparenza e il corretto riutilizzo, 
+i contenuti non-software di questa repository sono distribuiti 
+sotto due regimi legali differenti.
+
+
+1. DATI (Cartella "dati/")
+--------------------------
+I file contenenti i dati grezzi e le aggregazioni (CSV, XLSX) 
+sono rilasciati nel pubblico dominio tramite la dedica:
+
+    CC0 1.0 Universal (CC0 1.0) Dedica al Pubblico Dominio
+
+  - Permessi: Sei libero di copiare, modificare, distribuire e 
+    utilizzare i dati, anche per fini commerciali, senza dover 
+    chiedere alcun permesso.
+  - Disclaimer: Questo materiale è fornito "COSÌ COM'È" (AS IS). 
+    L'autore declina ogni responsabilità per eventuali errori, 
+    omissioni o per l'uso (incluso l'uso politico, giornalistico 
+    o elettorale) che terzi faranno di questi dati. L'uso di questi 
+    file non implica in alcun modo che l'autore avalli le tesi 
+    o le comunicazioni di chi li riutilizza.
+
+Testo CC0: https://creativecommons.org/publicdomain/zero/1.0/deed.it
+
+
+2. GRAFICI E VISUALIZZAZIONI (Cartella "output/")
+-------------------------------------------------
+I grafici prodotti dagli script (immagini PNG) sono opere 
+creative distribuite sotto licenza:
+
+    Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)
+
+  - Permessi: Sei libero di riprodurre, distribuire e modificare 
+    le immagini.
+  - Condizioni (Attribuzione): Devi riconoscere una menzione di 
+    paternità adeguata. Puoi pubblicare i grafici a patto di 
+    indicare chiaramente l'autore (es. "Grafico a cura di 
+    Roberto A. Palombella").
+
+Testo CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode.it
+
+
+SUGGERIMENTO DI CITAZIONE E ATTRIBUZIONE
+----------------------------------------
+Nel rispetto del lavoro di estrazione e analisi svolto, si richiede 
+cortesemente di citare la fonte e l'autore in caso di riutilizzo 
+pubblico di qualsiasi materiale (dati o grafici) qui presente:
+
+    Roberto A. Palombella, "Elezioni Molfetta -- analisi 2022/2026",
+    https://github.com/rob-pal/elezioni-molfetta
+
+
+NOTA SULLE FONTI PRIMARIE
+-------------------------
+I dati elettorali del 2022 sono stati ricavati da documenti pubblici 
+del Comune di Molfetta (Riepilogo Generale Preferenze, AMMINISTRATIVE 
+2022, disponibile in formato PDF sul sito istituzionale del Comune). 
+Le liste 2026 sono state trascritte da fonti pubbliche.
+
+Le licenze qui applicate riguardano esclusivamente l'aggregazione, 
+la rielaborazione e la veste grafica fornite in questa repository, 
+e non alterano lo stato giuridico dei documenti pubblici originali.
