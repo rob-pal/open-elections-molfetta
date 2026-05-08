@@ -2,9 +2,8 @@
 Calcoli sintetici di flusso 2022 → 2026.
 
 Stampa a console le statistiche di base usate nell'articolo:
-  1. Destinazione 2026 dei candidati di Minervini T. '22 ricandidati
-  2. % di volti nuovi in ognuna delle tre coalizioni 2026
-  3. Matrice destinazioni 2026 (teste e voti) e % non ricandidati
+  1. % di volti nuovi in ognuna delle tre coalizioni 2026
+  2. Matrice destinazioni 2026 (teste e voti) e % non ricandidati
 """
 
 from pathlib import Path
